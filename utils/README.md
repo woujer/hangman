@@ -1,5 +1,5 @@
-# **Hangman Wouter Daneels**
-## Description
+#  `#ffffff` **Hangman Wouter Daneels**
+## *Description*
 This project is a textuale program for the game hangman. The goal is to guess the right word in 
 in a certain amount of guesses. This program is made in python.
 
