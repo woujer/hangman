@@ -3,18 +3,18 @@
 This project is a textuale program for the game hangman. The goal is to guess the right word in 
 in a certain amount of guesses. This program is made in python.
 
-### Installation
+### *Installation*
 This code requeres python3+ installation. 
 
-### Usage
+### *Usage*
 1. Install python3+.
 2. Open the file.
    -Can also be opened in a editor with python.
 
-### Timeline
+### *Timeline*
 This project took me 1 day. In the first half of the day i had a rough concept with some errors. 
 Than after some research i fixed those but i got a code that was very long. So i spend the time i had left
 optimizing the code.
 
-### Personal situation
+### *Personal situation*
 This was made as a student at BeCode.
