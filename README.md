@@ -8,7 +8,7 @@ This code requeres python3+ installation.
 
 ### *Usage*
 1. Install python3+.
-2. Open the file.
+2. Open the file with terminal or other cl programs.
    -Can also be opened in a editor with python.
 
 ### *Timeline*
